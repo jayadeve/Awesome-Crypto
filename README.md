@@ -37,3 +37,14 @@
 ### Perpetual Swaps
 
 * [What are perpetual swaps?](https://medium.com/derivadex/what-are-perpetual-swaps-130236587df2)
+
+
+## Crypto Wallets
+
+### Ethereum
+
+* [Metamask](https://metamask.io/
+
+### Solana
+
+* [Phantom](https://phantom.app/)
