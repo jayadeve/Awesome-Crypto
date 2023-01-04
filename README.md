@@ -43,7 +43,7 @@
 
 ### Ethereum
 
-* [Metamask](https://metamask.io/
+* [Metamask](https://metamask.io/)
 
 ### Solana
 
