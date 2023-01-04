@@ -1,5 +1,11 @@
 # Awesome-Crypto
 
+## Bridges
+
+### Portal Token Brdge
+
+* [What Is The Portal Token Bridge: An Overview Of The Project](https://medium.com/everstake/what-is-the-wormhole-token-bridge-an-overview-of-the-project-4653ba2c92e9)
+
 ## Dex
 
 ### Uniswap
