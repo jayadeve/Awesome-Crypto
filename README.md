@@ -21,3 +21,11 @@
 ### HardHat
 
 * [Hardhat's tutorial for beginners](https://hardhat.org/tutorial#hardhat's-tutorial-for-beginners)
+
+
+
+## Trading
+
+### Perpetual Swaps
+
+* [What are perpetual swaps?](https://medium.com/derivadex/what-are-perpetual-swaps-130236587df2)
