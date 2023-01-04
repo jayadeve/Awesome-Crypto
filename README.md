@@ -2,7 +2,7 @@
 
 ## Bridges
 
-### Portal Token Brdge
+### Portal Token Brdge (Formerly known as Wormhole Token Bridge)
 
 * [What Is The Portal Token Bridge: An Overview Of The Project](https://medium.com/everstake/what-is-the-wormhole-token-bridge-an-overview-of-the-project-4653ba2c92e9)
 
@@ -14,7 +14,7 @@
 * [Uniswap: A Good Deal for Liquidity Providers?](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
 * [Uniswap: Understanding the Decentralised Ethereum Exchange](https://medium.com/block-journal/uniswap-understanding-the-decentralised-ethereum-exchange-5ee5d7878996)
 
-### FLash Loans
+## FLash Loans
 
 * [Aave Developers Guide](https://docs.aave.com/developers/guides/flash-loans)
 * [Aave FAQ](https://docs.aave.com/faq/flash-loans)
