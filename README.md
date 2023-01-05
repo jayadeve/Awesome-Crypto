@@ -39,6 +39,7 @@
 * [What are perpetual swaps?](https://medium.com/derivadex/what-are-perpetual-swaps-130236587df2)
 * [What is the funding rate for perpetual swaps?](https://medium.com/derivadex/what-is-the-funding-rate-for-perpetual-swaps-a0335c4228a9)
 * [Funding rates: under the hood](https://medium.com/derivadex/funding-rates-under-the-hood-352e6be83ab)
+* [Liquidation and bankruptcy prices: under the hood](https://medium.com/derivadex/liquidation-and-bankruptcy-prices-under-the-hood-c93167950d6a)
 
 ## Crypto Wallets
 
