@@ -41,6 +41,10 @@
 * [Funding rates: under the hood](https://medium.com/derivadex/funding-rates-under-the-hood-352e6be83ab)
 * [Liquidation and bankruptcy prices: under the hood](https://medium.com/derivadex/liquidation-and-bankruptcy-prices-under-the-hood-c93167950d6a)
 
+### Funding Rate Arbitrage
+
+* [Futures Funding Rate Arbitrage Guide](https://blog.synthetix.io/what-is-futures-funding-rate-arbitrage/)
+
 ## Crypto Wallets
 
 ### Ethereum
