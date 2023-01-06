@@ -27,10 +27,13 @@
 
 ## Development
 
+### Ethereum
+
+* [Ethereum Developer Doumentation](https://ethereum.org/en/developers/docs/)
+
 ### HardHat
 
 * [Hardhat's tutorial for beginners](https://hardhat.org/tutorial#hardhat's-tutorial-for-beginners)
-
 
 ## Trading
 
