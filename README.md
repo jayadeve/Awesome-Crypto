@@ -30,6 +30,8 @@
 ### Ethereum
 
 * [Ethereum Developer Doumentation](https://ethereum.org/en/developers/docs/)
+* [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
+* [How does Ethereum work, anyway?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
 
 ### HardHat
 
