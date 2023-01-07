@@ -31,6 +31,7 @@
 
 * [Ethereum Developer Doumentation](https://ethereum.org/en/developers/docs/)
 * [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
+* [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)
 * [How does Ethereum work, anyway?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
 
 ### HardHat
